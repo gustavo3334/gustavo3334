@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Engenharia de Software<br>🚀 Apaixonado por tecnologia , estou sempre em busca de aprender novas tecnologias</p>
+<p align="left">🎓 Estudante de Engenharia de Software<br>🚀Estou sempre em busca de aprender novas tecnologias</p>
 
 ###
 
